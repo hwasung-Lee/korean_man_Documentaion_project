@@ -76,6 +76,8 @@ ls [옵션] ... [파일] ...
 ## -k, --kibibytes 
 
 ## -l 
+긴 리스트 포맷을 사용합니다.  
+[역자 주] 여기서 '긴 리스트 포맷'은 디렉토리 여부, 권한, 소유자, 소유 그룹, 파일 크기 등을 표시하는 것을 의미합니다.
 
 ## -L, --dereference
 
@@ -101,7 +103,9 @@ GNU Coreutils 온라인 도움말 : <https://www.gnu.org/software/coretuils/>
 번역 버그 제보 : <https://www.translationproject.org/team/>
 
 # 저작권
-
+Copyright © 2020 Free Software Foundation, Inc. GPLv3+ 라이센스 : GNU GPL 버전 3 혹은 후기 버전 <https://gnu.org/licenses/gpl.html>.  
+본 프로그램은 자유 소프트웨어입니다: 여러분은 자유롭게 수정하고 재배포할 수 있습니다.  
+법으로 허용하는 정도에 대한 보증이 없습니다.
 # 같이 보기
-전체 문서 <https://www.gnu.org/software/coreutils/ls>
+전체 문서 <https://www.gnu.org/software/coreutils/ls>  
 또는 다음을 통해 로컬로 볼 수 있습니다. : info '(coreutils) ls invocation'
