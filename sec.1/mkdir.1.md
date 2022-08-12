@@ -20,5 +20,13 @@ mkdir [<u>옵션</u>] ... <u>디렉토리</u>
 # 저자
 David MacKenzie 씀
 # 버그 신고
+GNU coreutils 온라인 도움말 <https://www.gnu.org/software/coreutils/>
 # 저작권
+Copyright © 2020 Free Software Foundation, Inc.  
+라이센스 GPLv3+: GNU 버전 3 혹은 최신버전 <https://gnu.org/licenses/gpl.html>   
+이것은 자유 소프트웨어입니다. : 여러분은 자유롭게 본 프로그램을 수정하고 재배포하실 수 있습니다.  
+ 법으로 허용하는 정도에 대한 보증이 없습니다.
 # 같이보기
+mkdir(2)   
+전체 문서 <https://www.gnu.org/software/coreutils/mkdir>  
+또는 다음 을 통해 로컬에서도 볼 수 있습니다. info '(coretuils) mkdir invocation'
